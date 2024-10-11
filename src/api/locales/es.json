@@ -1,0 +1,15 @@
+{
+  "translation": {
+    "segment": {
+      "created": "Segmento creado exitosamente",
+      "updated": "Segmento actualizado exitosamente",
+      "deleted": "Segmento eliminado exitosamente",
+      "notFound": "Segmento no encontrado",
+      "actionApplied": "Acción aplicada exitosamente al segmento"
+    },
+    "error": {
+      "invalidAction": "Acción inválida",
+      "internalServer": "Ocurrió un error interno del servidor"
+    }
+  }
+}
